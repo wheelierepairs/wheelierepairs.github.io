@@ -573,6 +573,12 @@ nav#footer p{
 
 
 /* More custom styles */
+
+h2 {
+    line-height: 28px;
+}
+
+
 .why-us .item .icon {
     color: #FCAC45;
     font-size: 40px;
@@ -599,7 +605,7 @@ nav#footer p{
     font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
-    margin: auto;
+    margin: 10px auto;
 }
 #contact-info .contact-details{
     min-height: 100px;
